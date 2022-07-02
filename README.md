@@ -1,4 +1,4 @@
-# first-vue-project
+# Task Tracker
 
 ## Project setup
 ```
