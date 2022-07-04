@@ -27,7 +27,7 @@ export default {
  }
 
  .task.reminder {
-    border-left: 5px solid green;
+    border-left: 5px solid rgba(21, 193, 98, 0.8);
  }
 
 .task h3 {
@@ -37,7 +37,7 @@ export default {
 }
 
 .fas {
-    color:red;
+    color: rgba(233, 0, 80, 1)
 }
 </style>
 
