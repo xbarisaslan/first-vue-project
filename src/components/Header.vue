@@ -1,7 +1,7 @@
 <template>
     <header>
         <h1>{{title}}</h1>
-        <Button text="Add Task" color="green" />
+        <Button text="Add Task" color="rgba(21, 193, 98, 0.8)" />
     </header>
 </template>
 
@@ -25,5 +25,6 @@ import Button from './Button'
         justify-content: space-between;
         align-items: center;
         margin-bottom: .3rem;
+        color:rgba(255, 255, 255, 1)
     }
 </style>
