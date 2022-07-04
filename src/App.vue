@@ -70,6 +70,7 @@ export default {
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: rgba(90, 21, 193, .7);
 }
 
 .container {
@@ -77,17 +78,17 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 2px solid ;
   padding: 30px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .btn {
   display: inline-block;
-  background: #000;
+  background: rgba(21, 193, 98, 0.8);
   color: #fff;
   border: none;
-  padding: 10px 20px;
+  padding: 5px 10px;
   margin: 5px;
   border-radius: 5px;
   cursor: pointer;
