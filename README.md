@@ -1,5 +1,5 @@
 # Task Tracker
-When i coded this project, my understanding of the syntax of Vue and Javascript got better.I feel more comfortable working with Vue now.The link of the tutorial I followed along: https://www.youtube.com/watch?v=qZXt1Aom3Cs&list=WL&index=18&t=3138s
+When i coded this project, my knowledge of Vue.js and Javascript got better.I feel more comfortable working with Vue.js now.The link of the tutorial I followed along: https://www.youtube.com/watch?v=qZXt1Aom3Cs&list=WL&index=18&t=3138s
 ## Project setup
 ```
 npm install
